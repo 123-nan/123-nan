@@ -14,8 +14,7 @@
 <a href="https://linkedin.com/in/nandini-dadwal-35b451211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandini-dadwal-35b451211" height="30" width="40" /></a>
 <a href="https://kaggle.com/nandinidadwal123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nandinidadwal123" height="30" width="40" /></a>
 <a href="https://instagram.com/d_nan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_nan27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nandini274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandini274" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/nandinidadwal321/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_use" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nandinidadwal321/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_use" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
